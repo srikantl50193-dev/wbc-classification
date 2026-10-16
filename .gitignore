@@ -1,0 +1,40 @@
+# Dataset (too large for git)
+dataset2-master/
+dataset-master/
+
+# Model checkpoints
+checkpoints/
+*.hdf5
+*.keras
+*.h5
+
+# Training outputs
+training_history.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
